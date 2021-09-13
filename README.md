@@ -1,2 +1,2 @@
 # DataAnalytics
-Projects for Udacity Data Analytics NanoDegree
+Projects for Udacity Data Analyst NanoDegree
