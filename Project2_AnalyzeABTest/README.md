@@ -1,5 +1,5 @@
 # Analyze A/B Test Results
-In this project, the input data I worked with  the results of an A/B test run by an e-commerce website. 
+In this project, the input data I worked with are the results of an A/B test run by an e-commerce website. 
 
 1. The company has developed a new web page in order to try and increase the number of users who "convert",
 meaning the number of users who decide to pay for the company's product. 
